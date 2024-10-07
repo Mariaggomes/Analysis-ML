@@ -1,4 +1,4 @@
-# **Machine Learning Analyses** - Directory `analysis_ml`
+# **Machine Learning Analyses** 
 
 This directory contains implementations of **machine learning** algorithms applied to various classification and prediction problems.
 
